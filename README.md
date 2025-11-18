@@ -1,4 +1,4 @@
-# Sales-analytics-dashboard
+![Sales Analytics Dashboard](Sales_dashboard.png)
 
 This project analyzes sales data to provide insights on product performance, regional sales trends, and profitability.
 
